@@ -1,0 +1,12 @@
+fastapi>=0.115,<1
+uvicorn>=0.34,<1
+playwright>=1.51,<2
+pypdf>=5,<7
+beautifulsoup4>=4.12,<5
+markdownify>=1,<2
+tzdata>=2025
+httpx>=0.28,<1
+pytest>=8,<10
+filelock>=3.18,<4
+pywin32>=310; sys_platform == 'win32'
+fonttools>=4.60,<5
